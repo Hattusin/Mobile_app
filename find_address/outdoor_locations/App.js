@@ -18,24 +18,27 @@ export default function App() {
     const response = await fetch(url); 
     const data = await response.json();
     console.log(data.length);
-    for (let i = 0; i < data.length; i++){
+    setOutdoor(data);
+    //Trying if creating list before adding data to variable
+    /*for (let i = 0; i < data.length; i++){
       
-      outdoor_list.push({"title": data[i].title,
+      outdoor_list.push([{"title": data[i].title,
       "lat": data[i].routes.features[0].geometry.coordinates[0][1],
       "lng":data[i].routes.features[0].geometry.coordinates[0][0],
-    });
+    }]);
     }
-    setOutdoor(outdoor_list);
+    setOutdoor(outdoor_list);*/
     console.log("TULOKSET");
     console.log(data[0].title);
     console.log(data[0].routes.features[0].geometry.coordinates[0][1]);
-    console.log(outdoor);
+    console.log(outdoor[0].title); //This is almost everytime empty or undefined
 
 
     } catch(error){
       Alert.alert('Error', error); 
       };
   }
+
   
   const getLocation = async () => {
     
@@ -62,7 +65,12 @@ export default function App() {
     region={{latitude: locationlat, longitude:locationlng, latitudeDelta: 0.005,longitudeDelta:0.004,}}>
     <Marker
     coordinate={{latitude:locationlat, longitude: locationlng}}/>
-    
+    {outdoor && outdoor.map(marker => (
+    <Marker
+      coordinate={{latitude:marker.lat, longitude: marker.lng}}
+      title={marker.title}
+    />
+  ))}
     </MapView>
     <View style={{ flex: 1, alignItems: 'center', paddingTop:5,}}>
      <TextInput
