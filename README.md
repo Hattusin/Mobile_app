@@ -16,3 +16,5 @@ Mobiiliohjelmointi (kevät 2020), harjoitustehtävät
 - Tehtävä 12: [Shopping list with database](/shopping_list_with_db/App.js)
 - Tehtävä 13: [Phone contacts](/contacts/App.js)
 - Tehtävä 14: [Text to Speech](/TTS/App.js)
+- Tehtävä 15: Component Libraries
+  - [Shopping_list](/shopping_list/App.js)
