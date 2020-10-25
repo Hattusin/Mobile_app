@@ -18,3 +18,4 @@ Mobiiliohjelmointi (kevät 2020), harjoitustehtävät
 - Tehtävä 14: [Text to Speech](/TTS/App.js)
 - Tehtävä 15: Component Libraries
   - [Shopping_list](/Component_libaries/shopping_list2/App.js)
+  - [My Places](/Component_libaries/my_places/App.js)
