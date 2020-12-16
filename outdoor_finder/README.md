@@ -27,7 +27,7 @@ Data url: [https://citynature.eu/api/wp/v2/places?cityid=5](https://citynature.e
 
 - Näkymä kaikista luontopoluista
 
-<img src="/images/view_outdoorplaces.png" width="100%" height="100%">
+<img src="/images/view_outdoorplaces.png" width="50%" height="100%">
 
 
 
