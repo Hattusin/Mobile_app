@@ -39,5 +39,13 @@ Data url: [https://citynature.eu/api/wp/v2/places?cityid=5](https://citynature.e
 
 </p>
 
+- Sallimalla sijainti tiedon välittämisen on mahdollista hakea lähin luontopolku.
+
+<p float="left">
+    <img src="https://github.com/Hattusin/Mobile_app/blob/master/outdoor_finder/images/olet_tassa.PNG" width="30%" height="30%">
+    <img src="https://github.com/Hattusin/Mobile_app/blob/master/outdoor_finder/images/lahin_paikka.PNG" width="30%" height="30%">
+
+</p>
+
 
 
