@@ -27,7 +27,7 @@ Data url: [https://citynature.eu/api/wp/v2/places?cityid=5](https://citynature.e
 
 - Näkymä kaikista luontopoluista
 
-<img src="/images/view_outdoorplaces.png" width="50%" height="100%">
+<img src="https://github.com/Hattusin/Mobile_app/blob/master/outdoor_finder/images/helsinginkeskusta.png" width="50%" height="100%">
 
 
 
