@@ -19,3 +19,4 @@ Mobiiliohjelmointi (kevät 2020), harjoitustehtävät
 - Tehtävä 15: Component Libraries
   - [Shopping_list](/Component_libaries/shopping_list2/App.js)
   - [My Places](/Component_libaries/my_places/App.js)
+- Loppuprojekti [Helsingin ulkoilupaikat](https://github.com/Hattusin/Mobile_app/tree/master/outdoor_finder)
