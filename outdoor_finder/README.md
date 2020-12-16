@@ -23,11 +23,11 @@ Data url: [https://citynature.eu/api/wp/v2/places?cityid=5](https://citynature.e
 
 - Yleisnäkymä avautuu Helsingin keskustaan ja käyttäjältä pyydetään lupa käyttää sijaintia
 
-<img src="/images/helsinginkeskusta.png" width="100%" height="100%">
+<img src="https://github.com/Hattusin/Mobile_app/blob/master/outdoor_finder/images/helsinginkeskusta.png" width="80%" height="800%">
 
 - Näkymä kaikista luontopoluista
 
-<img src="https://github.com/Hattusin/Mobile_app/blob/master/outdoor_finder/images/helsinginkeskusta.png" width="50%" height="100%">
+<img src="https://github.com/Hattusin/Mobile_app/blob/master/outdoor_finder/images/view_outdoorplaces.png" width="70%" height="70%">
 
 
 
